@@ -1,0 +1,11 @@
+name: apollo-graphql
+summary: Apollo GraphQL Demo
+maintainer: Nicolas Pochet <npochet@gmail.com>
+description: |
+  Apollo GraphQL Demo
+tags:
+  - misc
+subordinate: false
+provides:
+  website:
+    interface: http
